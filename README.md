@@ -1,5 +1,4 @@
 Dynamic Grid UI for NGUI
-
 ========
 
 Thank you for buying this package!
